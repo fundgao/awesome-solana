@@ -28,6 +28,11 @@ Solana CLI
 - 查看当前钱包地址 `solana address`
 - 获取测试币 `solana airdrop 2`
 - 查看钱包持仓情况 `solana balance`
+- 切换网络
+  - `solana config set -um` # For mainnet-beta
+  - `solana config set -ud` # For devnet
+  - `solana config set -ul` # For localhost
+  - `solana config set -ut` # For testnet
 
 Anchor CLI
 
