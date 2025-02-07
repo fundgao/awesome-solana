@@ -47,3 +47,4 @@ Anchor CLI
 - Raydium https://docs.raydium.io/raydium/zhong-wen
 - Anchor https://github.com/coral-xyz/anchor
 - Solana Web3.js https://solana-labs.github.io/solana-web3.js/
+- Noah 视频教程 https://www.bilibili.com/video/BV1Q3cyeTEPJ
