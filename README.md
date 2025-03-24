@@ -47,3 +47,10 @@ Anchor CLI
 - Raydium https://docs.raydium.io/raydium/zhong-wen
 - Anchor https://github.com/coral-xyz/anchor
 - Solana Web3.js https://solana-labs.github.io/solana-web3.js/
+- Solana scan https://solscan.io
+
+## 终端代理
+
+- 全局代理模式
+- 查看代理命令 `curl cip.cc`
+- 更改代理命令 `export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897`
