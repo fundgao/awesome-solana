@@ -49,6 +49,9 @@ Anchor CLI
 - Solana Web3.js https://solana-labs.github.io/solana-web3.js/
 - Solana scan https://solscan.io
 - Noah 视频教程 https://www.bilibili.com/video/BV1Q3cyeTEPJ
+- Solana 中文大全 https://www.solana-cn.com/
+- Solana 社区 https://solana.com/zh
+- Solana 训练营 https://www.soldevcamp.com/
 
 ## 终端代理
 
