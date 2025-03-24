@@ -42,6 +42,10 @@ Anchor CLI
 - 使用最新版本 `avm use latest`
 - 查看 Anchor 版本 `anchor --version`
 
+## [TradingView](https://tradingview.github.io/lightweight-charts/docs)
+
+- 安装命令 `npm install --save lightweight-charts`
+
 ## 教程
 
 - Raydium https://docs.raydium.io/raydium/zhong-wen
