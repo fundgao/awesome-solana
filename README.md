@@ -52,6 +52,7 @@ Anchor CLI
 - Solana 中文大全 https://www.solana-cn.com/
 - Solana 社区 https://solana.com/zh
 - Solana 训练营 https://www.soldevcamp.com/
+- 登链社区 https://learnblockchain.cn/
 
 ## 终端代理
 
