@@ -32,7 +32,7 @@ Solana CLI
   - `solana config set -um` # For mainnet-beta
   - `solana config set -ud` # For devnet
   - `solana config set -ul` # For localhost
-  - `solana config set -ut` # For testnet
+  - `solana config set -ut` # For testnet 
 
 Anchor CLI
 
