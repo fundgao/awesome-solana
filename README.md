@@ -34,6 +34,7 @@ Solana CLI
   - `solana config set -ul` # For localhost
   - `solana config set -ut` # For testnet 
 
+
 Anchor CLI
 
 - 安装 avm `cargo install --git https://github.com/coral-xyz/anchor avm --force` _类似 nvm 管理版本_
