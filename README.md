@@ -63,4 +63,3 @@ Anchor CLI
 - 全局代理模式
 - 查看代理命令 `curl cip.cc`
 - 更改代理命令 `export https_proxy=http://127.0.0.1:7897 http_proxy=http://127.0.0.1:7897 all_proxy=socks5://127.0.0.1:7897`
-
