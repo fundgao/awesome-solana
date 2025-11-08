@@ -16,7 +16,7 @@ Cargo：Rust 的构建工具和包管理器
 - 测试项目 `cargo test`
 - 将库发布到 crates.io `cargo publish` _类似 npm 库_
 
-Solana CLI
+Solana CLI  
 
 - 安装命令 `sh -c "$(curl -sSfL https://release.anza.xyz/stable/install)"`
 - `export PATH="$HOME/.local/share/solana/install/active_release/bin:$PATH"`
